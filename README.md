@@ -9,8 +9,3 @@ The Lumin theme is a vibrant theme filled with lively shades of lime green. Desi
 1. Open the Extensions sidebar in VS Code by pressing `Ctrl + Shift + X` (Windows) or `Cmd + Shift + X` (macOS)
 2. Search for "Lumin" and click "Install"
 3. Click "Reload" to activate the theme
-
-# Screenshots
-
-![Screenshot](https://github.com/thisisroi/lumin-theme/raw/main/public/screenshot-1.png)
-![Screenshot](https://github.com/thisisroi/lumin-theme/raw/main/public/screenshot-2.png)
