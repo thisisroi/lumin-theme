@@ -1,8 +1,8 @@
 {
   "name": "lumin",
   "displayName": "Lumin",
-  "description": "The Lumin theme is a vibrant theme filled with lively shades of lime green. Designed to invigorate your coding experience, this theme provides color-coded highlights according to the programming language. The theme offers a comfortable writing experience during the coding process with its eye-soothing brightness and simple design.",
-  "version": "1.0.2",
+  "description": "The Lumin theme is a vibrant theme filled with lively shades of lime green.",
+  "version": "1.0.1",
   "publisher": "thisisroi",
   "keywords": ["dark theme", "themes", "lime theme", "dark theme", "modern theme", "macos theme", "mac theme", "green theme"],
   "galleryBanner": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thisisroi/serene-theme"
+    "url": "https://github.com/thisisroi/lumin-theme"
   },
-  "homepage": "https://github.com/thisisroi/serene-theme/blob/main/README.md"
+  "homepage": "https://github.com/thisisroi/lumin-theme/blob/main/README.md"
 }
